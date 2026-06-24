@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36717.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1.16CTyepeCasting.FNLInsrct", "1.16CTyepeCasting.FNLInsrct\1.16CTyepeCasting.FNLInsrct.vcxproj", "{908FEF53-52F8-4ABF-AF41-890F7677DA18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{908FEF53-52F8-4ABF-AF41-890F7677DA18}.Debug|x64.ActiveCfg = Debug|x64
+		{908FEF53-52F8-4ABF-AF41-890F7677DA18}.Debug|x64.Build.0 = Debug|x64
+		{908FEF53-52F8-4ABF-AF41-890F7677DA18}.Debug|x86.ActiveCfg = Debug|Win32
+		{908FEF53-52F8-4ABF-AF41-890F7677DA18}.Debug|x86.Build.0 = Debug|Win32
+		{908FEF53-52F8-4ABF-AF41-890F7677DA18}.Release|x64.ActiveCfg = Release|x64
+		{908FEF53-52F8-4ABF-AF41-890F7677DA18}.Release|x64.Build.0 = Release|x64
+		{908FEF53-52F8-4ABF-AF41-890F7677DA18}.Release|x86.ActiveCfg = Release|Win32
+		{908FEF53-52F8-4ABF-AF41-890F7677DA18}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D30E3A5-0D83-4F4F-922E-843774D4F005}
+	EndGlobalSection
+EndGlobal
