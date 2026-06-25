@@ -1,0 +1,5 @@
+﻿  main.c
+C:\Users\atind\OneDrive\Desktop\1_AdamCode-AlppaCentauri_O\1.PracticeWithAI\Oppie2C\6.0NoNtsJInstructions\1.34CStrcatNStrcpy.FNLInstrc\1.34CStrcatNStrcpy.FNLInstrc\main.c(34,2): warning C4013: 'system' undefined; assuming extern returning int
+C:\Users\atind\OneDrive\Desktop\1_AdamCode-AlppaCentauri_O\1.PracticeWithAI\Oppie2C\6.0NoNtsJInstructions\1.34CStrcatNStrcpy.FNLInstrc\1.34CStrcatNStrcpy.FNLInstrc\main.c(60,48): warning C4013: 'isuppper' undefined; assuming extern returning int
+main.obj : error LNK2019: unresolved external symbol isuppper referenced in function main
+C:\Users\atind\OneDrive\Desktop\1_AdamCode-AlppaCentauri_O\1.PracticeWithAI\Oppie2C\6.0NoNtsJInstructions\1.34CStrcatNStrcpy.FNLInstrc\x64\Debug\1.34CStrcatNStrcpy.FNLInstrc.exe : fatal error LNK1120: 1 unresolved externals
