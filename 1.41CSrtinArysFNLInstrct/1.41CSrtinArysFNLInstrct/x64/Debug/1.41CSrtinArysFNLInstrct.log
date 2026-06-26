@@ -1,0 +1,5 @@
+﻿  main.c
+C:\Users\atind\OneDrive\Desktop\1_AdamCode-AlppaCentauri_O\1.PracticeWithAI\Oppie2C\6.0NoNtsJInstructions\1.41CSrtinArysFNLInstrct\1.41CSrtinArysFNLInstrct\main.c(10,8): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\atind\OneDrive\Desktop\1_AdamCode-AlppaCentauri_O\1.PracticeWithAI\Oppie2C\6.0NoNtsJInstructions\1.41CSrtinArysFNLInstrct\1.41CSrtinArysFNLInstrct\main.c(14,15): warning C4101: 'swapped': unreferenced local variable
+C:\Users\atind\OneDrive\Desktop\1_AdamCode-AlppaCentauri_O\1.PracticeWithAI\Oppie2C\6.0NoNtsJInstructions\1.41CSrtinArysFNLInstrct\1.41CSrtinArysFNLInstrct\main.c(14,9): warning C4101: 'temp': unreferenced local variable
+  1.41CSrtinArysFNLInstrct.vcxproj -> C:\Users\atind\OneDrive\Desktop\1_AdamCode-AlppaCentauri_O\1.PracticeWithAI\Oppie2C\6.0NoNtsJInstructions\1.41CSrtinArysFNLInstrct\x64\Debug\1.41CSrtinArysFNLInstrct.exe
